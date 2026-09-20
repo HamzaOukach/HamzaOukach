@@ -6,6 +6,6 @@ I'm currently looking for an internship in Backend Development or AI/ML Engineer
 
 My main interests are backend development and Machine Learning.
 
-My Main tech stack is Java, Python, React, TypeScript, Spring Boot, Flask and SQL
+My Main tech stack is : Java, Python, Spring Boot, Flask and SQL
 
 I share repos of projects I've built or contributed to throughout my academic journey.
